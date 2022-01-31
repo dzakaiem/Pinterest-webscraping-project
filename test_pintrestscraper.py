@@ -3,8 +3,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager import driver
 from src import pinterestScraper       
 import unittest
-driver = webdriver.Chrome(ChromeDriverManager().install()) 
-webdriver.Chrome('/Users/danielzakaiem/Downloads/chromedriver')
+# driver = webdriver.Chrome(ChromeDriverManager().install()) 
+# webdriver.Chrome('/Users/danielzakaiem/Downloads/chromedriver')
 import unittest.mock  
 import os
 
